@@ -1,6 +1,10 @@
-html, body {
-  margin: 0;
-  padding: 0;
+html,
+body {
+  overflow-x: hidden;
+}
+
+body {
+  position: relative;
 }
 
 canvas {
